@@ -1,0 +1,12 @@
+D:\SEMESTER 4\PEMROGRAMAN VISUAL\Pertemuan4\bin\Debug\Pertemuan4.exe.config
+D:\SEMESTER 4\PEMROGRAMAN VISUAL\Pertemuan4\bin\Debug\Pertemuan4.exe
+D:\SEMESTER 4\PEMROGRAMAN VISUAL\Pertemuan4\bin\Debug\Pertemuan4.pdb
+D:\SEMESTER 4\PEMROGRAMAN VISUAL\Pertemuan4\bin\Debug\Pertemuan4.xml
+D:\SEMESTER 4\PEMROGRAMAN VISUAL\Pertemuan4\obj\Debug\Pertemuan4.vbprojAssemblyReference.cache
+D:\SEMESTER 4\PEMROGRAMAN VISUAL\Pertemuan4\obj\Debug\Pertemuan4.Form1.resources
+D:\SEMESTER 4\PEMROGRAMAN VISUAL\Pertemuan4\obj\Debug\Pertemuan4.Resources.resources
+D:\SEMESTER 4\PEMROGRAMAN VISUAL\Pertemuan4\obj\Debug\Pertemuan4.vbproj.GenerateResource.cache
+D:\SEMESTER 4\PEMROGRAMAN VISUAL\Pertemuan4\obj\Debug\Pertemuan4.vbproj.CoreCompileInputs.cache
+D:\SEMESTER 4\PEMROGRAMAN VISUAL\Pertemuan4\obj\Debug\Pertemuan4.exe
+D:\SEMESTER 4\PEMROGRAMAN VISUAL\Pertemuan4\obj\Debug\Pertemuan4.xml
+D:\SEMESTER 4\PEMROGRAMAN VISUAL\Pertemuan4\obj\Debug\Pertemuan4.pdb
