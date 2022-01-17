@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31105.61
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Looping Pert.6", "Looping Pert.6.vbproj", "{470CF974-A2DA-4712-B9CA-B5BB851D08FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{470CF974-A2DA-4712-B9CA-B5BB851D08FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{470CF974-A2DA-4712-B9CA-B5BB851D08FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{470CF974-A2DA-4712-B9CA-B5BB851D08FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{470CF974-A2DA-4712-B9CA-B5BB851D08FA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B0C54964-AEC8-4C2F-A02D-EF18023630CC}
+	EndGlobalSection
+EndGlobal

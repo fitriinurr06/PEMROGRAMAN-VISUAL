@@ -1,0 +1,12 @@
+D:\SEMESTER 4\PEMROGRAMAN VISUAL\Looping Pert.6\bin\Debug\Looping Pert.6.exe.config
+D:\SEMESTER 4\PEMROGRAMAN VISUAL\Looping Pert.6\bin\Debug\Looping Pert.6.exe
+D:\SEMESTER 4\PEMROGRAMAN VISUAL\Looping Pert.6\bin\Debug\Looping Pert.6.pdb
+D:\SEMESTER 4\PEMROGRAMAN VISUAL\Looping Pert.6\bin\Debug\Looping Pert.6.xml
+D:\SEMESTER 4\PEMROGRAMAN VISUAL\Looping Pert.6\obj\Debug\Looping Pert.6.vbprojAssemblyReference.cache
+D:\SEMESTER 4\PEMROGRAMAN VISUAL\Looping Pert.6\obj\Debug\Looping_Pert._6.Form1.resources
+D:\SEMESTER 4\PEMROGRAMAN VISUAL\Looping Pert.6\obj\Debug\Looping_Pert._6.Resources.resources
+D:\SEMESTER 4\PEMROGRAMAN VISUAL\Looping Pert.6\obj\Debug\Looping Pert.6.vbproj.GenerateResource.cache
+D:\SEMESTER 4\PEMROGRAMAN VISUAL\Looping Pert.6\obj\Debug\Looping Pert.6.vbproj.CoreCompileInputs.cache
+D:\SEMESTER 4\PEMROGRAMAN VISUAL\Looping Pert.6\obj\Debug\Looping Pert.6.exe
+D:\SEMESTER 4\PEMROGRAMAN VISUAL\Looping Pert.6\obj\Debug\Looping Pert.6.xml
+D:\SEMESTER 4\PEMROGRAMAN VISUAL\Looping Pert.6\obj\Debug\Looping Pert.6.pdb
