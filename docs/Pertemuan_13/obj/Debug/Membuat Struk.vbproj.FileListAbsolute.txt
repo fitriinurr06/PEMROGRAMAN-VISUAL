@@ -1,0 +1,12 @@
+D:\SEMESTER 4\PEMROGRAMAN VISUAL\Membuat Struk\bin\Debug\Membuat Struk.exe.config
+D:\SEMESTER 4\PEMROGRAMAN VISUAL\Membuat Struk\bin\Debug\Membuat Struk.exe
+D:\SEMESTER 4\PEMROGRAMAN VISUAL\Membuat Struk\bin\Debug\Membuat Struk.pdb
+D:\SEMESTER 4\PEMROGRAMAN VISUAL\Membuat Struk\bin\Debug\Membuat Struk.xml
+D:\SEMESTER 4\PEMROGRAMAN VISUAL\Membuat Struk\obj\Debug\Membuat Struk.vbprojAssemblyReference.cache
+D:\SEMESTER 4\PEMROGRAMAN VISUAL\Membuat Struk\obj\Debug\Membuat_Struk.TokoBungaFlorist.resources
+D:\SEMESTER 4\PEMROGRAMAN VISUAL\Membuat Struk\obj\Debug\Membuat_Struk.Resources.resources
+D:\SEMESTER 4\PEMROGRAMAN VISUAL\Membuat Struk\obj\Debug\Membuat Struk.vbproj.GenerateResource.cache
+D:\SEMESTER 4\PEMROGRAMAN VISUAL\Membuat Struk\obj\Debug\Membuat Struk.vbproj.CoreCompileInputs.cache
+D:\SEMESTER 4\PEMROGRAMAN VISUAL\Membuat Struk\obj\Debug\Membuat Struk.exe
+D:\SEMESTER 4\PEMROGRAMAN VISUAL\Membuat Struk\obj\Debug\Membuat Struk.xml
+D:\SEMESTER 4\PEMROGRAMAN VISUAL\Membuat Struk\obj\Debug\Membuat Struk.pdb
