@@ -1,0 +1,12 @@
+D:\SEMESTER 4\PEMROGRAMAN VISUAL\Kalkulator\bin\Debug\Kalkulator.exe.config
+D:\SEMESTER 4\PEMROGRAMAN VISUAL\Kalkulator\bin\Debug\Kalkulator.exe
+D:\SEMESTER 4\PEMROGRAMAN VISUAL\Kalkulator\bin\Debug\Kalkulator.pdb
+D:\SEMESTER 4\PEMROGRAMAN VISUAL\Kalkulator\bin\Debug\Kalkulator.xml
+D:\SEMESTER 4\PEMROGRAMAN VISUAL\Kalkulator\obj\Debug\Kalkulator.vbprojAssemblyReference.cache
+D:\SEMESTER 4\PEMROGRAMAN VISUAL\Kalkulator\obj\Debug\Kalkulator.Form1.resources
+D:\SEMESTER 4\PEMROGRAMAN VISUAL\Kalkulator\obj\Debug\Kalkulator.Resources.resources
+D:\SEMESTER 4\PEMROGRAMAN VISUAL\Kalkulator\obj\Debug\Kalkulator.vbproj.GenerateResource.cache
+D:\SEMESTER 4\PEMROGRAMAN VISUAL\Kalkulator\obj\Debug\Kalkulator.vbproj.CoreCompileInputs.cache
+D:\SEMESTER 4\PEMROGRAMAN VISUAL\Kalkulator\obj\Debug\Kalkulator.exe
+D:\SEMESTER 4\PEMROGRAMAN VISUAL\Kalkulator\obj\Debug\Kalkulator.xml
+D:\SEMESTER 4\PEMROGRAMAN VISUAL\Kalkulator\obj\Debug\Kalkulator.pdb
