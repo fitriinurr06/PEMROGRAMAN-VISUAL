@@ -1,0 +1,12 @@
+D:\SEMESTER 4\PEMROGRAMAN VISUAL\PV_12 Aplikasi Penjualan Buku\bin\Debug\PV_12 Aplikasi Penjualan Buku.exe.config
+D:\SEMESTER 4\PEMROGRAMAN VISUAL\PV_12 Aplikasi Penjualan Buku\bin\Debug\PV_12 Aplikasi Penjualan Buku.exe
+D:\SEMESTER 4\PEMROGRAMAN VISUAL\PV_12 Aplikasi Penjualan Buku\bin\Debug\PV_12 Aplikasi Penjualan Buku.pdb
+D:\SEMESTER 4\PEMROGRAMAN VISUAL\PV_12 Aplikasi Penjualan Buku\bin\Debug\PV_12 Aplikasi Penjualan Buku.xml
+D:\SEMESTER 4\PEMROGRAMAN VISUAL\PV_12 Aplikasi Penjualan Buku\obj\Debug\PV_12 Aplikasi Penjualan Buku.vbprojAssemblyReference.cache
+D:\SEMESTER 4\PEMROGRAMAN VISUAL\PV_12 Aplikasi Penjualan Buku\obj\Debug\PV_12_Aplikasi_Penjualan_Buku.DataBuku.resources
+D:\SEMESTER 4\PEMROGRAMAN VISUAL\PV_12 Aplikasi Penjualan Buku\obj\Debug\PV_12_Aplikasi_Penjualan_Buku.Resources.resources
+D:\SEMESTER 4\PEMROGRAMAN VISUAL\PV_12 Aplikasi Penjualan Buku\obj\Debug\PV_12 Aplikasi Penjualan Buku.vbproj.GenerateResource.cache
+D:\SEMESTER 4\PEMROGRAMAN VISUAL\PV_12 Aplikasi Penjualan Buku\obj\Debug\PV_12 Aplikasi Penjualan Buku.vbproj.CoreCompileInputs.cache
+D:\SEMESTER 4\PEMROGRAMAN VISUAL\PV_12 Aplikasi Penjualan Buku\obj\Debug\PV_12 Aplikasi Penjualan Buku.exe
+D:\SEMESTER 4\PEMROGRAMAN VISUAL\PV_12 Aplikasi Penjualan Buku\obj\Debug\PV_12 Aplikasi Penjualan Buku.xml
+D:\SEMESTER 4\PEMROGRAMAN VISUAL\PV_12 Aplikasi Penjualan Buku\obj\Debug\PV_12 Aplikasi Penjualan Buku.pdb
