@@ -1,0 +1,12 @@
+D:\SEMESTER 4\PEMROGRAMAN VISUAL\MenuUtama\bin\Debug\MenuUtama.exe.config
+D:\SEMESTER 4\PEMROGRAMAN VISUAL\MenuUtama\bin\Debug\MenuUtama.exe
+D:\SEMESTER 4\PEMROGRAMAN VISUAL\MenuUtama\bin\Debug\MenuUtama.pdb
+D:\SEMESTER 4\PEMROGRAMAN VISUAL\MenuUtama\bin\Debug\MenuUtama.xml
+D:\SEMESTER 4\PEMROGRAMAN VISUAL\MenuUtama\obj\Debug\MenuUtama.vbprojAssemblyReference.cache
+D:\SEMESTER 4\PEMROGRAMAN VISUAL\MenuUtama\obj\Debug\MenuUtama.FormMenuUtama.resources
+D:\SEMESTER 4\PEMROGRAMAN VISUAL\MenuUtama\obj\Debug\MenuUtama.Resources.resources
+D:\SEMESTER 4\PEMROGRAMAN VISUAL\MenuUtama\obj\Debug\MenuUtama.vbproj.GenerateResource.cache
+D:\SEMESTER 4\PEMROGRAMAN VISUAL\MenuUtama\obj\Debug\MenuUtama.vbproj.CoreCompileInputs.cache
+D:\SEMESTER 4\PEMROGRAMAN VISUAL\MenuUtama\obj\Debug\MenuUtama.exe
+D:\SEMESTER 4\PEMROGRAMAN VISUAL\MenuUtama\obj\Debug\MenuUtama.xml
+D:\SEMESTER 4\PEMROGRAMAN VISUAL\MenuUtama\obj\Debug\MenuUtama.pdb
