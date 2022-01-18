@@ -1,0 +1,12 @@
+D:\SEMESTER 4\PEMROGRAMAN VISUAL\PV_10 Koneksi Dtabase\bin\Debug\PV_10 Koneksi Dtabase.exe.config
+D:\SEMESTER 4\PEMROGRAMAN VISUAL\PV_10 Koneksi Dtabase\bin\Debug\PV_10 Koneksi Dtabase.exe
+D:\SEMESTER 4\PEMROGRAMAN VISUAL\PV_10 Koneksi Dtabase\bin\Debug\PV_10 Koneksi Dtabase.pdb
+D:\SEMESTER 4\PEMROGRAMAN VISUAL\PV_10 Koneksi Dtabase\bin\Debug\PV_10 Koneksi Dtabase.xml
+D:\SEMESTER 4\PEMROGRAMAN VISUAL\PV_10 Koneksi Dtabase\obj\Debug\PV_10 Koneksi Dtabase.vbprojAssemblyReference.cache
+D:\SEMESTER 4\PEMROGRAMAN VISUAL\PV_10 Koneksi Dtabase\obj\Debug\PV_10_Koneksi_Dtabase.KoneksiDatabase.resources
+D:\SEMESTER 4\PEMROGRAMAN VISUAL\PV_10 Koneksi Dtabase\obj\Debug\PV_10_Koneksi_Dtabase.Resources.resources
+D:\SEMESTER 4\PEMROGRAMAN VISUAL\PV_10 Koneksi Dtabase\obj\Debug\PV_10 Koneksi Dtabase.vbproj.GenerateResource.cache
+D:\SEMESTER 4\PEMROGRAMAN VISUAL\PV_10 Koneksi Dtabase\obj\Debug\PV_10 Koneksi Dtabase.vbproj.CoreCompileInputs.cache
+D:\SEMESTER 4\PEMROGRAMAN VISUAL\PV_10 Koneksi Dtabase\obj\Debug\PV_10 Koneksi Dtabase.exe
+D:\SEMESTER 4\PEMROGRAMAN VISUAL\PV_10 Koneksi Dtabase\obj\Debug\PV_10 Koneksi Dtabase.xml
+D:\SEMESTER 4\PEMROGRAMAN VISUAL\PV_10 Koneksi Dtabase\obj\Debug\PV_10 Koneksi Dtabase.pdb
