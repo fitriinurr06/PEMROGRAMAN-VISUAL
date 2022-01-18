@@ -1,0 +1,12 @@
+D:\SEMESTER 4\PEMROGRAMAN VISUAL\PV_11 Aplikasi CRUD\bin\Debug\PV_11 Aplikasi CRUD.exe.config
+D:\SEMESTER 4\PEMROGRAMAN VISUAL\PV_11 Aplikasi CRUD\bin\Debug\PV_11 Aplikasi CRUD.exe
+D:\SEMESTER 4\PEMROGRAMAN VISUAL\PV_11 Aplikasi CRUD\bin\Debug\PV_11 Aplikasi CRUD.pdb
+D:\SEMESTER 4\PEMROGRAMAN VISUAL\PV_11 Aplikasi CRUD\bin\Debug\PV_11 Aplikasi CRUD.xml
+D:\SEMESTER 4\PEMROGRAMAN VISUAL\PV_11 Aplikasi CRUD\obj\Debug\PV_11 Aplikasi CRUD.vbprojAssemblyReference.cache
+D:\SEMESTER 4\PEMROGRAMAN VISUAL\PV_11 Aplikasi CRUD\obj\Debug\PV_11_Aplikasi_CRUD.DataBuku.resources
+D:\SEMESTER 4\PEMROGRAMAN VISUAL\PV_11 Aplikasi CRUD\obj\Debug\PV_11_Aplikasi_CRUD.Resources.resources
+D:\SEMESTER 4\PEMROGRAMAN VISUAL\PV_11 Aplikasi CRUD\obj\Debug\PV_11 Aplikasi CRUD.vbproj.GenerateResource.cache
+D:\SEMESTER 4\PEMROGRAMAN VISUAL\PV_11 Aplikasi CRUD\obj\Debug\PV_11 Aplikasi CRUD.vbproj.CoreCompileInputs.cache
+D:\SEMESTER 4\PEMROGRAMAN VISUAL\PV_11 Aplikasi CRUD\obj\Debug\PV_11 Aplikasi CRUD.exe
+D:\SEMESTER 4\PEMROGRAMAN VISUAL\PV_11 Aplikasi CRUD\obj\Debug\PV_11 Aplikasi CRUD.xml
+D:\SEMESTER 4\PEMROGRAMAN VISUAL\PV_11 Aplikasi CRUD\obj\Debug\PV_11 Aplikasi CRUD.pdb
