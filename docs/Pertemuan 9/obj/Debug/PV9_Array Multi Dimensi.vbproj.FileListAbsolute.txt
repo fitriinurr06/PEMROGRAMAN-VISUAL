@@ -1,0 +1,12 @@
+D:\SEMESTER 4\PEMROGRAMAN VISUAL\PV9_Array Multi Dimensi\bin\Debug\PV9_Array Multi Dimensi.exe.config
+D:\SEMESTER 4\PEMROGRAMAN VISUAL\PV9_Array Multi Dimensi\bin\Debug\PV9_Array Multi Dimensi.exe
+D:\SEMESTER 4\PEMROGRAMAN VISUAL\PV9_Array Multi Dimensi\bin\Debug\PV9_Array Multi Dimensi.pdb
+D:\SEMESTER 4\PEMROGRAMAN VISUAL\PV9_Array Multi Dimensi\bin\Debug\PV9_Array Multi Dimensi.xml
+D:\SEMESTER 4\PEMROGRAMAN VISUAL\PV9_Array Multi Dimensi\obj\Debug\PV9_Array Multi Dimensi.vbprojAssemblyReference.cache
+D:\SEMESTER 4\PEMROGRAMAN VISUAL\PV9_Array Multi Dimensi\obj\Debug\PV9_Array_Multi_Dimensi.ArrayMultiDimensi.resources
+D:\SEMESTER 4\PEMROGRAMAN VISUAL\PV9_Array Multi Dimensi\obj\Debug\PV9_Array_Multi_Dimensi.Resources.resources
+D:\SEMESTER 4\PEMROGRAMAN VISUAL\PV9_Array Multi Dimensi\obj\Debug\PV9_Array Multi Dimensi.vbproj.GenerateResource.cache
+D:\SEMESTER 4\PEMROGRAMAN VISUAL\PV9_Array Multi Dimensi\obj\Debug\PV9_Array Multi Dimensi.vbproj.CoreCompileInputs.cache
+D:\SEMESTER 4\PEMROGRAMAN VISUAL\PV9_Array Multi Dimensi\obj\Debug\PV9_Array Multi Dimensi.exe
+D:\SEMESTER 4\PEMROGRAMAN VISUAL\PV9_Array Multi Dimensi\obj\Debug\PV9_Array Multi Dimensi.xml
+D:\SEMESTER 4\PEMROGRAMAN VISUAL\PV9_Array Multi Dimensi\obj\Debug\PV9_Array Multi Dimensi.pdb
