@@ -8,17 +8,17 @@ Imports System.Runtime.InteropServices
 
 ' Review the values of the assembly attributes
 
-<Assembly: AssemblyTitle("MenuUtama")>
+<Assembly: AssemblyTitle("UAS_LaporanDataKaryawan")>
 <Assembly: AssemblyDescription("")>
 <Assembly: AssemblyCompany("")>
-<Assembly: AssemblyProduct("MenuUtama")>
+<Assembly: AssemblyProduct("UAS_LaporanDataKaryawan")>
 <Assembly: AssemblyCopyright("Copyright ©  2021")>
 <Assembly: AssemblyTrademark("")>
 
 <Assembly: ComVisible(False)>
 
 'The following GUID is for the ID of the typelib if this project is exposed to COM
-<Assembly: Guid("ae656ce5-29f6-48a6-bb53-de339819eb27")>
+<Assembly: Guid("2bccc7c8-0a24-4465-9622-541c1e554bbd")>
 
 ' Version information for an assembly consists of the following four values:
 '
